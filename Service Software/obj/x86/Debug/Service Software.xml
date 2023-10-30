@@ -1,0 +1,576 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Service Software
+</name>
+</assembly>
+<members>
+<member name="T:Service_Software.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Service_Software.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Service_Software.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Service_Software.My.Resources.Resources.ExclamationMark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Service_Software.My.Resources.Resources.Green_Tick_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Service_Software.My.Resources.Resources.search_480">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Service_Software.My.Resources.Resources.user_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.TransactionReceiveDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.TransactionRepairDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.TransactionDeliveryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.DiscountDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.Not_AssignedDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.Under_ProcessDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.TransferDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.tbStorageDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.CustomerInformationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.TransactionReceiveRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.TransactionRepairRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.TransactionDeliveryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.DiscountRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.Not_AssignedRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.Under_ProcessRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.TransferRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.tbStorageRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.CustomerInformationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.TransactionReceiveRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.TransactionRepairRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.TransactionDeliveryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.DiscountRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.Not_AssignedRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.Under_ProcessRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.TransferRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.tbStorageRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.dsDailyTransaction.CustomerInformationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPayment">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPayment.DataTable1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPayment.tbiBillserviceDetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPayment.Receive_InformationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPayment.MultyReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPayment.Delivery_InformationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPayment.CashSalesBillDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPayment.DataTable1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPayment.tbiBillserviceDetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPayment.Receive_InformationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPayment.MultyReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPayment.Delivery_InformationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPayment.CashSalesBillRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPayment.DataTable1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPayment.tbiBillserviceDetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPayment.Receive_InformationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPayment.MultyReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPayment.Delivery_InformationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPayment.CashSalesBillRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPaymentTableAdapters.DataTable1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPaymentTableAdapters.tbiBillserviceDetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPaymentTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Service_Software.dsBillPaymentTableAdapters.TableAdapterManager.UpdateUpdatedRows(Service_Software.dsBillPayment,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Service_Software.dsBillPaymentTableAdapters.TableAdapterManager.UpdateInsertedRows(Service_Software.dsBillPayment,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Service_Software.dsBillPaymentTableAdapters.TableAdapterManager.UpdateDeletedRows(Service_Software.dsBillPayment,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Service_Software.dsBillPaymentTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Service_Software.dsBillPaymentTableAdapters.TableAdapterManager.UpdateAll(Service_Software.dsBillPayment)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPaymentTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Service_Software.dsBillPaymentTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.CashSalesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Repaird_InformationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.PendingDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Estimate_RefuseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Pending_DeliveryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.NRCRDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Spare_Parts_ConsumptionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Spare_Parts_Consumption_SummeryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Technician_PerformanceDetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Technician_PerformanceTimeElapsedDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.CashSalesSummeryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Technicia_ReportDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.PresentStockDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.CashSalesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Repaird_InformationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.PendingRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Estimate_RefuseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Pending_DeliveryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.NRCRRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Spare_Parts_ConsumptionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Spare_Parts_Consumption_SummeryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Technician_PerformanceDetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Technician_PerformanceTimeElapsedRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.CashSalesSummeryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Technicia_ReportRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.PresentStockRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.CashSalesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Repaird_InformationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.PendingRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Estimate_RefuseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Pending_DeliveryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.NRCRRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Spare_Parts_ConsumptionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Spare_Parts_Consumption_SummeryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Technician_PerformanceDetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Technician_PerformanceTimeElapsedRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.CashSalesSummeryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.Technicia_ReportRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_Del.PresentStockRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_DelTableAdapters.CashSalesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_DelTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Service_Software.Rec_Rep_DelTableAdapters.TableAdapterManager.UpdateUpdatedRows(Service_Software.Rec_Rep_Del,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Service_Software.Rec_Rep_DelTableAdapters.TableAdapterManager.UpdateInsertedRows(Service_Software.Rec_Rep_Del,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Service_Software.Rec_Rep_DelTableAdapters.TableAdapterManager.UpdateDeletedRows(Service_Software.Rec_Rep_Del,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Service_Software.Rec_Rep_DelTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Service_Software.Rec_Rep_DelTableAdapters.TableAdapterManager.UpdateAll(Service_Software.Rec_Rep_Del)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_DelTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Service_Software.Rec_Rep_DelTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

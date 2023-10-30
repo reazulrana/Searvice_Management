@@ -1,0 +1,72 @@
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\bin\x64\Debug\Service Software.exe.config
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\bin\x64\Debug\Service Software.exe.manifest
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\bin\x64\Debug\Service Software.application
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\bin\x64\Debug\Service Software.exe
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\bin\x64\Debug\Service Software.pdb
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\bin\x64\Debug\Service Software.xml
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\bin\x64\Debug\FlashControlV71.dll
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\bin\x64\Debug\stdole.dll
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service Software.vbproj.AssemblyReference.cache
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service Software.vbproj.ResolveComReference.cache
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmAuditOpetion.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmClaimList.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmDailyreport.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmExecutionDay.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmJobUpdate.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmLoadDatabase.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmMaliList.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmQuotation.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmCashSalesReport.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmCreateUser.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmAbort.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmAdd_EditModel.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.FrmAdvance.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmBackUp.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmCashsale.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmCategory.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmCompanyInformation.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmDeleteJob.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmJobInformationForm.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmLogIn.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmMaster_information.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmMerge.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmEditCategoryBrand.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmProductInformation.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmMergeDatabase.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmNewProduct.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmPrintClaimSlip.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmSysteminformation.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmNewBranch.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmNewCategoryBrand.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmOnpayment_Bill_Format.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmOpenCustomerClaim.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmOption.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmPending.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmPersonalInformation.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmPrinerSetup.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmProductEntry.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmproductsearch.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmRepairedForm.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmReplaceEntry.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmReportShow.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmSetBranch.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmtbStorageSet.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmTimeSchedule.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmTransfer.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmUpdate_Delete.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmVAT.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.NewCustomer.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.frmMdimain.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service_Software.Resources.resources
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service Software.vbproj.GenerateResource.cache
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service Software.vbproj.CoreCompileInputs.cache
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service Software.exe.manifest
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service Software.application
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service Software.vbproj.CopyComplete
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service Software.exe
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service Software.xml
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\obj\x64\Debug\Service Software.pdb
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\bin\x64\Debug\CrystalDecisions.CrystalReports.Engine.dll
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\bin\x64\Debug\CrystalDecisions.ReportSource.dll
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\bin\x64\Debug\CrystalDecisions.Shared.dll
+K:\OK Service Software\Service Software\Rangs Electronics Lts 08-Dec-2018\Service Software\bin\x64\Debug\CrystalDecisions.Windows.Forms.dll

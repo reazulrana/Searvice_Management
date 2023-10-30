@@ -1,0 +1,290 @@
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\Service Software.exe
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\Service Software.pdb
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\Service Software.xml
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service_Software.NewCustomer.resources
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service_Software.frmMDIMAIN.resources
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service_Software.Resources.resources
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service Software.vbproj.GenerateResource.Cache
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service Software.exe
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service Software.xml
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service Software.pdb
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\CrystalDecisions.Shared.dll
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\stdole.dll
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service_Software.frmCategory.resources
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service_Software.frmSetBranch.resources
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service_Software.frmOpenCustomerClaim.resources
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service Software.vbproj.ResolveComReference.cache
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service_Software.frmRepairedForm.resources
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service_Software.frmJobInformationForm.resources
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service_Software.frmProductEntry.resources
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service_Software.frmPending.resources
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service_Software.frmAbort.resources
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service_Software.frmReplaceEntry.resources
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service_Software.frmOnpayment_Bill_Format.resources
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\FlashControlV71.dll
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\ShockwaveFlashObjects.dll
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service_Software.frmReportShow.resources
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\bin\Debug\Service Software.exe.config
+E:\Visual Studio 2015 Project1\.Net Framework 3.5\Service Software\Service Software\bin\Debug\Service Software.exe.config
+E:\Visual Studio 2015 Project1\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service Software.vbproj.ResolveComReference.cache
+E:\Visual Studio 2015 Project1\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service Software.exe
+E:\Visual Studio 2015 Project1\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service Software.xml
+E:\Visual Studio 2015 Project1\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service Software.pdb
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service_Software.frmProductSearch.resources
+E:\Visual Studio 2015 Project\.Net Framework 3.5\Service Software\Service Software\obj\Debug\Service Software.vbprojResolveAssemblyReference.cache
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\Service Software.exe.config
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.vbproj.ResolveComReference.cache
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.exe
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.xml
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.pdb
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\Service Software.exe.manifest
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\Service Software.application
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\Service Software.exe
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\Service Software.pdb
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\Service Software.xml
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.Shared.dll
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\FlashControlV71.dll
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\ShockwaveFlashObjects.dll
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\stdole.dll
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmCreateUser.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmAbort.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmAdd_EditModel.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.FrmAdvance.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmBackUp.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmCashsale.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmCategory.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmCompanyInformation.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmJobInformationForm.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmLogIn.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmMaster_information.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmMerge.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmEditCategoryBrand.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmProductInformation.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmMergeDatabase.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmPresentStock.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmSysteminformation.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmNewBranch.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmNewCategoryBrand.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmOnpayment_Bill_Format.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmOpenCustomerClaim.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmOption.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmPending.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmPersonalInformation.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmPrinerSetup.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmProductEntry.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmproductsearch.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmRepairedForm.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmReplaceEntry.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmReportShow.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmSetBranch.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmUpdate_Delete.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.NewCustomer.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmMdimain.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.Resources.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.vbproj.GenerateResource.Cache
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.exe.manifest
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.application
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmPrintClaimSlip.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmNewProduct.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\Service Software.exe.config
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.vbproj.ResolveComReference.cache
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.exe
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.xml
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.pdb
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmCreateUser.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmAbort.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmAdd_EditModel.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.FrmAdvance.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmBackUp.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmCashsale.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmCategory.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmCompanyInformation.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmJobInformationForm.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmLogIn.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmMaster_information.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmMerge.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmEditCategoryBrand.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmProductInformation.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmMergeDatabase.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmNewProduct.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmPresentStock.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmPrintClaimSlip.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmSysteminformation.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmNewBranch.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmNewCategoryBrand.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmOnpayment_Bill_Format.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmOpenCustomerClaim.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmOption.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmPending.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmPersonalInformation.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmPrinerSetup.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmProductEntry.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmproductsearch.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmRepairedForm.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmReplaceEntry.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmReportShow.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmSetBranch.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmUpdate_Delete.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.NewCustomer.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmMdimain.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.Resources.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.vbproj.GenerateResource.Cache
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\Service Software.exe.manifest
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\Service Software.application
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\Service Software.exe
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\Service Software.pdb
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\Service Software.xml
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportSource.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.Shared.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.Windows.Forms.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\FlashControlV71.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\MetroFramework.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\ShockwaveFlashObjects.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\stdole.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.exe.manifest
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.application
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmDeleteJob.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmDeleteJob.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmCashSalesReport.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmCashSalesReport.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\Service Software.exe.config
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.vbproj.ResolveComReference.cache
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.exe
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.xml
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.pdb
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmQuotation.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmQuotation.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmDailyreport.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmDailyreport.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\Service Software.exe.manifest
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\Service Software.application
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\Service Software.exe
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\Service Software.pdb
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\Service Software.xml
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.Shared.dll
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\FlashControlV71.dll
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\ShockwaveFlashObjects.dll
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\stdole.dll
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.vbprojResolveAssemblyReference.cache
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmDailyreport.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmQuotation.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmCashSalesReport.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmCreateUser.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmAbort.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmAdd_EditModel.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.FrmAdvance.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmBackUp.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmCashsale.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmCategory.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmCompanyInformation.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmDeleteJob.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmJobInformationForm.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmLogIn.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmMaster_information.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmMerge.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmEditCategoryBrand.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmProductInformation.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmMergeDatabase.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmNewProduct.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmPresentStock.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmPrintClaimSlip.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmSysteminformation.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmNewBranch.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmNewCategoryBrand.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmOnpayment_Bill_Format.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmOpenCustomerClaim.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmOption.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmPending.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmPersonalInformation.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmPrinerSetup.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmProductEntry.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmproductsearch.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmRepairedForm.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmReplaceEntry.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmReportShow.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmSetBranch.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmTechnicianReport.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmUpdate_Delete.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.NewCustomer.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmMdimain.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.Resources.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.vbproj.GenerateResource.Cache
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.exe.manifest
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.application
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmtbStorageSet.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmTransfer.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmtbStorageSet.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmTransfer.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmJobUpdate.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmJobUpdate.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmJobUpdate.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmtbStorageSet.resources
+G:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmTransfer.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.vbprojResolveAssemblyReference.cache
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmAuditOpetion.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmMaliList.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmAuditOpetion.resources
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service_Software.frmMaliList.resources
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Interop.DAO.dll
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\Interop.DAO.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Interop.DAO.dll
+I:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\bin\Debug\Interop.DAO.dll
+E:\Software\My software\Visual Studio 2015 Projct\Service Software\Service Software\obj\Debug\Service Software.vbprojResolveAssemblyReference.cache

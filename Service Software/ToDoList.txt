@@ -1,0 +1,313 @@
+﻿Receive
+	New			
+		Sales Warranty					Completed
+		Non Warranty					Completed
+		Service Warranty				Completed
+	Update		
+		Sales Warranty					Completed
+		Non Warranty					Completed
+		Service Warranty				Completed
+
+Repaired
+	Pending
+		Sales Warranty					Completed
+		Non Warranty					Completed
+		Service Warranty				Completed
+	
+	EstimateRefuse
+		Sales Warranty					Completed
+		Non Warranty					Completed
+		Service Warranty				Completed
+	
+	Aborted
+		Sales Warranty					Completed
+		Non Warranty					Completed
+		Service Warranty				Completed
+	
+	Repaired
+		Sales Warranty					Completed
+		Non Warranty					Completed
+		Service Warranty				Completed
+
+Delivery
+
+ Free of Cost / Complimentary Report Section	Completed
+
+Pending
+		Sales Warranty
+		Non Warranty
+		Service Warranty
+	
+	EstimateRefuse
+		Sales Warranty
+		Non Warranty
+		Service Warranty
+	
+	Aborted
+		Sales Warranty
+		Non Warranty
+		Service Warranty
+	
+	Repaired
+		Sales Warranty
+		Non Warranty
+		Service Warranty
+
+Cashsales
+	New
+
+
+Edit Tab
+	FindInformation					Complete
+	Cashsales						
+	DeleteJobs
+
+Working Process
+	Product Status
+
+
+Tools
+	Personal Information
+		Setting
+			Set Branch
+			New Branch
+			Add New Mail
+
+	BrandMaster
+		Category			 Completed
+		Update & Delete		 is Not Taken in Hand
+
+	UserManagement			Completed
+	
+	System Information
+		Current Information	
+	
+	Product Storage			
+
+	Product Transfer		Complete
+	
+	Reset Job
+
+	Data Merge				Complete
+
+Reports
+*	In Out
+		Daily
+		Date Wise
+
+*	Receiveing
+		Master
+		Summery
+			Branch
+			Category
+			Brand
+			Model
+
+*	Repaired
+		Master
+		Summery
+			Branch
+			Category
+			Brand
+			Model
+	
+*	Delivery
+		Master
+		Summery
+			Branch
+			Category
+			Brand
+			Model
+		Warr Amount
+		Outstanding
+		Discount
+			Delivery
+		Service Collection
+			Branch
+
+*	Estimate Refuse
+		Details
+	
+*	Not Assigned Job
+*	Under Process
+*	Job Transfer
+*	Pending Delivery
+		Details
+
+*	Pending
+		Details
+
+*	NotRepairable(NR)
+*	Replace
+*	Parts Consumption
+		Repair
+		Delivery
+		Summery
+			Repair
+			Delivery
+	
+*	Storage Product
+*	Technical Performance
+		Personal
+		All
+		Others
+			Summery
+			Time Comparison
+		
+		Technician Report
+*	MIS
+*	Master MIS
+*	Customer Information
+		Details
+*	Brand Model
+*	Cash Sale
+		Details
+		Summery
+*	Present Stock
+		All
+		Date Wise
+
+Mail
+*	Quatation
+*	Report
+
+
+
+
+
+
+
+
+
+____________________________________________ New Edition _________________________________
+
+
+Form Section
+			New Job
+				Remarks Labelbox.							Complete
+				Create Fault								Progress
+				Create Accessories							Not Take in Hand yet
+				
+			User Management
+				Add Delete Button.							Not Take in Hand yet
+				List Not Refresh after new insert (New Record not added in the list until reopen the form)	
+
+
+
+
+			Backup Form
+				Create back up Schedule						Not Take in Hand yet
+
+
+
+
+	_____________________ Check Validation ___________________________
+
+	Form
+	Cash Sales
+		
+		Task : Validation
+		Control : 
+			Job Code  
+			Branch 
+			Sell Code 
+			Add Button									Complete
+
+
+
+
+
+
+
+
+
+		___________________________ Form Modify Section ____________________________
+
+
+		Form
+		TransferJob										Complete
+
+
+
+
+
+
+
+
+
+		__________________________ Error found _______________________________
+
+		
+		
+		Job		: 12175		
+		Branch	: Airport Road
+		Form	: Edit New Job
+		Probelm	: Solved
+
+
+
+
+		Delivery Form 
+
+		Field Name :	Net Payble Field(show '0' amount)
+						MRNO (Vat Load From Database)
+
+
+
+		Branch Name :	Airport Road 
+		JobCode :		17222AIRPOR
+		Problem :		When Parts load in Job Status Form 
+		
+		__________________________ Tables _______________________________
+
+	AdvanceInfo
+	Audit
+	Branch
+	Brand
+	BrandModel
+	CashSales
+	Category
+	ClaimInfo
+	ClaimList
+	CompanyInformation
+	cType
+	CustomerClaim
+	EmailStatus
+	EstimateRefused
+	FormStyles
+	JobAudit
+	MailList
+	MailSMS
+	Model
+	NRDetails
+	Pending
+	Personal
+	PorductInformation
+	Product
+	ProductStatus
+	Replace
+	RPTHowTimeBillPrint
+	RPTModelWiseMonthly
+	ServiceDetails
+	ServiceDetailsDetails
+	ServiceItem
+	tbBill
+	tbBill_FFC
+	tbGrade
+	tbiBillserviceDetails
+	tblItemCap
+	tblMonlySummeryReport
+	tblPresentStock
+	tblTechnicianReport
+	tbStoregeSET
+	tbTechPerformancSummary
+	TransferJob
+	UserInfo
+	UsesAccesories
+	WarrantyType
+	tblWarranty 
+	MailingInformation
+	ExecutionDay
+	ExecutionJobStatus
+	ExecutionScheduleo
+

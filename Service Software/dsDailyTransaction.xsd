@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsDailyTransaction" targetNamespace="http://tempuri.org/dsDailyTransaction.xsd" xmlns:mstns="http://tempuri.org/dsDailyTransaction.xsd" xmlns="http://tempuri.org/dsDailyTransaction.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsDailyTransaction" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsDailyTransaction" msprop:Generator_UserDSName="dsDailyTransaction">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TransactionReceive" msprop:Generator_TableClassName="TransactionReceiveDataTable" msprop:Generator_TableVarName="tableTransactionReceive" msprop:Generator_TablePropName="TransactionReceive" msprop:Generator_RowDeletingName="TransactionReceiveRowDeleting" msprop:Generator_RowChangingName="TransactionReceiveRowChanging" msprop:Generator_RowEvHandlerName="TransactionReceiveRowChangeEventHandler" msprop:Generator_RowDeletedName="TransactionReceiveRowDeleted" msprop:Generator_UserTableName="TransactionReceive" msprop:Generator_RowChangedName="TransactionReceiveRowChanged" msprop:Generator_RowEvArgName="TransactionReceiveRowChangeEvent" msprop:Generator_RowClassName="TransactionReceiveRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="JobCode" msprop:Generator_ColumnVarNameInTable="columnJobCode" msprop:Generator_ColumnPropNameInRow="JobCode" msprop:Generator_ColumnPropNameInTable="JobCodeColumn" msprop:Generator_UserColumnName="JobCode" type="xs:string" minOccurs="0" />
+              <xs:element name="Branch" msprop:Generator_ColumnVarNameInTable="columnBranch" msprop:Generator_ColumnPropNameInRow="Branch" msprop:Generator_ColumnPropNameInTable="BranchColumn" msprop:Generator_UserColumnName="Branch" type="xs:string" minOccurs="0" />
+              <xs:element name="ModelNo" msprop:Generator_ColumnVarNameInTable="columnModelNo" msprop:Generator_ColumnPropNameInRow="ModelNo" msprop:Generator_ColumnPropNameInTable="ModelNoColumn" msprop:Generator_UserColumnName="ModelNo" type="xs:string" minOccurs="0" />
+              <xs:element name="ServiceType" msprop:Generator_ColumnVarNameInTable="columnServiceType" msprop:Generator_ColumnPropNameInRow="ServiceType" msprop:Generator_ColumnPropNameInTable="ServiceTypeColumn" msprop:Generator_UserColumnName="ServiceType" type="xs:string" minOccurs="0" />
+              <xs:element name="Wcondition" msprop:Generator_ColumnVarNameInTable="columnWcondition" msprop:Generator_ColumnPropNameInRow="Wcondition" msprop:Generator_ColumnPropNameInTable="WconditionColumn" msprop:Generator_UserColumnName="Wcondition" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TransactionRepair" msprop:Generator_TableClassName="TransactionRepairDataTable" msprop:Generator_TableVarName="tableTransactionRepair" msprop:Generator_TablePropName="TransactionRepair" msprop:Generator_RowDeletingName="TransactionRepairRowDeleting" msprop:Generator_RowChangingName="TransactionRepairRowChanging" msprop:Generator_RowEvHandlerName="TransactionRepairRowChangeEventHandler" msprop:Generator_RowDeletedName="TransactionRepairRowDeleted" msprop:Generator_UserTableName="TransactionRepair" msprop:Generator_RowChangedName="TransactionRepairRowChanged" msprop:Generator_RowEvArgName="TransactionRepairRowChangeEvent" msprop:Generator_RowClassName="TransactionRepairRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="JobCode" msprop:Generator_ColumnVarNameInTable="columnJobCode" msprop:Generator_ColumnPropNameInRow="JobCode" msprop:Generator_ColumnPropNameInTable="JobCodeColumn" msprop:Generator_UserColumnName="JobCode" type="xs:string" minOccurs="0" />
+              <xs:element name="Branch" msprop:Generator_ColumnVarNameInTable="columnBranch" msprop:Generator_ColumnPropNameInRow="Branch" msprop:Generator_ColumnPropNameInTable="BranchColumn" msprop:Generator_UserColumnName="Branch" type="xs:string" minOccurs="0" />
+              <xs:element name="ModelNo" msprop:Generator_ColumnVarNameInTable="columnModelNo" msprop:Generator_ColumnPropNameInRow="ModelNo" msprop:Generator_ColumnPropNameInTable="ModelNoColumn" msprop:Generator_UserColumnName="ModelNo" type="xs:string" minOccurs="0" />
+              <xs:element name="ServiceType" msprop:Generator_ColumnVarNameInTable="columnServiceType" msprop:Generator_ColumnPropNameInRow="ServiceType" msprop:Generator_ColumnPropNameInTable="ServiceTypeColumn" msprop:Generator_UserColumnName="ServiceType" type="xs:string" minOccurs="0" />
+              <xs:element name="Wcondition" msprop:Generator_ColumnVarNameInTable="columnWcondition" msprop:Generator_ColumnPropNameInRow="Wcondition" msprop:Generator_ColumnPropNameInTable="WconditionColumn" msprop:Generator_UserColumnName="Wcondition" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TransactionDelivery" msprop:Generator_TableClassName="TransactionDeliveryDataTable" msprop:Generator_TableVarName="tableTransactionDelivery" msprop:Generator_TablePropName="TransactionDelivery" msprop:Generator_RowDeletingName="TransactionDeliveryRowDeleting" msprop:Generator_RowChangingName="TransactionDeliveryRowChanging" msprop:Generator_RowEvHandlerName="TransactionDeliveryRowChangeEventHandler" msprop:Generator_RowDeletedName="TransactionDeliveryRowDeleted" msprop:Generator_UserTableName="TransactionDelivery" msprop:Generator_RowChangedName="TransactionDeliveryRowChanged" msprop:Generator_RowEvArgName="TransactionDeliveryRowChangeEvent" msprop:Generator_RowClassName="TransactionDeliveryRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="JobCode" msprop:Generator_ColumnVarNameInTable="columnJobCode" msprop:Generator_ColumnPropNameInRow="JobCode" msprop:Generator_ColumnPropNameInTable="JobCodeColumn" msprop:Generator_UserColumnName="JobCode" type="xs:string" minOccurs="0" />
+              <xs:element name="Branch" msprop:Generator_ColumnVarNameInTable="columnBranch" msprop:Generator_ColumnPropNameInRow="Branch" msprop:Generator_ColumnPropNameInTable="BranchColumn" msprop:Generator_UserColumnName="Branch" type="xs:string" minOccurs="0" />
+              <xs:element name="ModelNo" msprop:Generator_ColumnVarNameInTable="columnModelNo" msprop:Generator_ColumnPropNameInRow="ModelNo" msprop:Generator_ColumnPropNameInTable="ModelNoColumn" msprop:Generator_UserColumnName="ModelNo" type="xs:string" minOccurs="0" />
+              <xs:element name="ServiceType" msprop:Generator_ColumnVarNameInTable="columnServiceType" msprop:Generator_ColumnPropNameInRow="ServiceType" msprop:Generator_ColumnPropNameInTable="ServiceTypeColumn" msprop:Generator_UserColumnName="ServiceType" type="xs:string" minOccurs="0" />
+              <xs:element name="Wcondition" msprop:Generator_ColumnVarNameInTable="columnWcondition" msprop:Generator_ColumnPropNameInRow="Wcondition" msprop:Generator_ColumnPropNameInTable="WconditionColumn" msprop:Generator_UserColumnName="Wcondition" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Discount" msprop:Generator_TableClassName="DiscountDataTable" msprop:Generator_TableVarName="tableDiscount" msprop:Generator_RowChangedName="DiscountRowChanged" msprop:Generator_TablePropName="Discount" msprop:Generator_RowDeletingName="DiscountRowDeleting" msprop:Generator_RowChangingName="DiscountRowChanging" msprop:Generator_RowEvHandlerName="DiscountRowChangeEventHandler" msprop:Generator_RowDeletedName="DiscountRowDeleted" msprop:Generator_RowClassName="DiscountRow" msprop:Generator_UserTableName="Discount" msprop:Generator_RowEvArgName="DiscountRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="JobCode" msprop:Generator_ColumnVarNameInTable="columnJobCode" msprop:Generator_ColumnPropNameInRow="JobCode" msprop:Generator_ColumnPropNameInTable="JobCodeColumn" msprop:Generator_UserColumnName="JobCode" type="xs:string" minOccurs="0" />
+              <xs:element name="Branch" msprop:Generator_ColumnVarNameInTable="columnBranch" msprop:Generator_ColumnPropNameInRow="Branch" msprop:Generator_ColumnPropNameInTable="BranchColumn" msprop:Generator_UserColumnName="Branch" type="xs:string" minOccurs="0" />
+              <xs:element name="CustName" msprop:Generator_ColumnVarNameInTable="columnCustName" msprop:Generator_ColumnPropNameInRow="CustName" msprop:Generator_ColumnPropNameInTable="CustNameColumn" msprop:Generator_UserColumnName="CustName" type="xs:string" minOccurs="0" />
+              <xs:element name="ServiceType" msprop:Generator_ColumnVarNameInTable="columnServiceType" msprop:Generator_ColumnPropNameInRow="ServiceType" msprop:Generator_ColumnPropNameInTable="ServiceTypeColumn" msprop:Generator_UserColumnName="ServiceType" type="xs:string" minOccurs="0" />
+              <xs:element name="Brand" msprop:Generator_ColumnVarNameInTable="columnBrand" msprop:Generator_ColumnPropNameInRow="Brand" msprop:Generator_ColumnPropNameInTable="BrandColumn" msprop:Generator_UserColumnName="Brand" type="xs:string" minOccurs="0" />
+              <xs:element name="ModelNo" msprop:Generator_ColumnVarNameInTable="columnModelNo" msprop:Generator_ColumnPropNameInRow="ModelNo" msprop:Generator_ColumnPropNameInTable="ModelNoColumn" msprop:Generator_UserColumnName="ModelNo" type="xs:string" minOccurs="0" />
+              <xs:element name="Ddate" msprop:Generator_ColumnVarNameInTable="columnDdate" msprop:Generator_ColumnPropNameInRow="Ddate" msprop:Generator_ColumnPropNameInTable="DdateColumn" msprop:Generator_UserColumnName="Ddate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="cGrade" msprop:Generator_ColumnVarNameInTable="columncGrade" msprop:Generator_ColumnPropNameInRow="cGrade" msprop:Generator_ColumnPropNameInTable="cGradeColumn" msprop:Generator_UserColumnName="cGrade" type="xs:string" minOccurs="0" />
+              <xs:element name="Discount" msprop:Generator_ColumnVarNameInTable="columnDiscount" msprop:Generator_ColumnPropNameInRow="Discount" msprop:Generator_ColumnPropNameInTable="DiscountColumn" msprop:Generator_UserColumnName="Discount" type="xs:double" minOccurs="0" />
+              <xs:element name="TotalAmnt" msprop:Generator_ColumnVarNameInTable="columnTotalAmnt" msprop:Generator_ColumnPropNameInRow="TotalAmnt" msprop:Generator_ColumnPropNameInTable="TotalAmntColumn" msprop:Generator_UserColumnName="TotalAmnt" type="xs:double" minOccurs="0" />
+              <xs:element name="Wcondition" msprop:Generator_ColumnVarNameInTable="columnWcondition" msprop:Generator_ColumnPropNameInRow="Wcondition" msprop:Generator_ColumnPropNameInTable="WconditionColumn" msprop:Generator_UserColumnName="Wcondition" type="xs:short" minOccurs="0" />
+              <xs:element name="Cflag" msprop:Generator_ColumnVarNameInTable="columnCflag" msprop:Generator_ColumnPropNameInRow="Cflag" msprop:Generator_ColumnPropNameInTable="CflagColumn" msprop:Generator_UserColumnName="Cflag" type="xs:unsignedShort" minOccurs="0" />
+              <xs:element name="NetTotal" msprop:Generator_ColumnVarNameInTable="columnNetTotal" msprop:Generator_ColumnPropNameInRow="NetTotal" msprop:Generator_ColumnPropNameInTable="NetTotalColumn" msprop:Generator_UserColumnName="NetTotal" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Not_Assigned" msprop:Generator_TableClassName="Not_AssignedDataTable" msprop:Generator_TableVarName="tableNot_Assigned" msprop:Generator_RowChangedName="Not_AssignedRowChanged" msprop:Generator_TablePropName="Not_Assigned" msprop:Generator_RowDeletingName="Not_AssignedRowDeleting" msprop:Generator_RowChangingName="Not_AssignedRowChanging" msprop:Generator_RowEvHandlerName="Not_AssignedRowChangeEventHandler" msprop:Generator_RowDeletedName="Not_AssignedRowDeleted" msprop:Generator_RowClassName="Not_AssignedRow" msprop:Generator_UserTableName="Not_Assigned" msprop:Generator_RowEvArgName="Not_AssignedRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="JobCOde" msprop:Generator_ColumnVarNameInTable="columnJobCOde" msprop:Generator_ColumnPropNameInRow="JobCOde" msprop:Generator_ColumnPropNameInTable="JobCOdeColumn" msprop:Generator_UserColumnName="JobCOde" type="xs:string" />
+              <xs:element name="Branch" msprop:Generator_ColumnVarNameInTable="columnBranch" msprop:Generator_ColumnPropNameInRow="Branch" msprop:Generator_ColumnPropNameInTable="BranchColumn" msprop:Generator_UserColumnName="Branch" type="xs:string" minOccurs="0" />
+              <xs:element name="ServiceType" msprop:Generator_ColumnVarNameInTable="columnServiceType" msprop:Generator_ColumnPropNameInRow="ServiceType" msprop:Generator_ColumnPropNameInTable="ServiceTypeColumn" msprop:Generator_UserColumnName="ServiceType" type="xs:string" minOccurs="0" />
+              <xs:element name="Brand" msprop:Generator_ColumnVarNameInTable="columnBrand" msprop:Generator_ColumnPropNameInRow="Brand" msprop:Generator_ColumnPropNameInTable="BrandColumn" msprop:Generator_UserColumnName="Brand" type="xs:string" minOccurs="0" />
+              <xs:element name="ModelNo" msprop:Generator_ColumnVarNameInTable="columnModelNo" msprop:Generator_ColumnPropNameInRow="ModelNo" msprop:Generator_ColumnPropNameInTable="ModelNoColumn" msprop:Generator_UserColumnName="ModelNo" type="xs:string" minOccurs="0" />
+              <xs:element name="SLNO" msprop:Generator_ColumnVarNameInTable="columnSLNO" msprop:Generator_ColumnPropNameInRow="SLNO" msprop:Generator_ColumnPropNameInTable="SLNOColumn" msprop:Generator_UserColumnName="SLNO" type="xs:string" minOccurs="0" />
+              <xs:element name="Wcondition" msprop:Generator_ColumnVarNameInTable="columnWcondition" msprop:Generator_ColumnPropNameInRow="Wcondition" msprop:Generator_ColumnPropNameInTable="WconditionColumn" msprop:Generator_UserColumnName="Wcondition" type="xs:string" minOccurs="0" />
+              <xs:element name="ReceptDate" msprop:Generator_ColumnVarNameInTable="columnReceptDate" msprop:Generator_ColumnPropNameInRow="ReceptDate" msprop:Generator_ColumnPropNameInTable="ReceptDateColumn" msprop:Generator_UserColumnName="ReceptDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ElapseTime" msprop:Generator_ColumnVarNameInTable="columnElapseTime" msprop:Generator_ColumnPropNameInRow="ElapseTime" msprop:Generator_ColumnPropNameInTable="ElapseTimeColumn" msprop:Generator_UserColumnName="ElapseTime" type="xs:string" minOccurs="0" />
+              <xs:element name="ReceiveBy" msprop:Generator_ColumnVarNameInTable="columnReceiveBy" msprop:Generator_ColumnPropNameInRow="ReceiveBy" msprop:Generator_ColumnPropNameInTable="ReceiveByColumn" msprop:Generator_UserColumnName="ReceiveBy" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Under_Process" msprop:Generator_TableClassName="Under_ProcessDataTable" msprop:Generator_TableVarName="tableUnder_Process" msprop:Generator_TablePropName="Under_Process" msprop:Generator_RowDeletingName="Under_ProcessRowDeleting" msprop:Generator_RowChangingName="Under_ProcessRowChanging" msprop:Generator_RowEvHandlerName="Under_ProcessRowChangeEventHandler" msprop:Generator_RowDeletedName="Under_ProcessRowDeleted" msprop:Generator_UserTableName="Under_Process" msprop:Generator_RowChangedName="Under_ProcessRowChanged" msprop:Generator_RowEvArgName="Under_ProcessRowChangeEvent" msprop:Generator_RowClassName="Under_ProcessRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="JobCode" msprop:Generator_ColumnVarNameInTable="columnJobCode" msprop:Generator_ColumnPropNameInRow="JobCode" msprop:Generator_ColumnPropNameInTable="JobCodeColumn" msprop:Generator_UserColumnName="JobCode" type="xs:string" />
+              <xs:element name="Branch" msprop:Generator_ColumnVarNameInTable="columnBranch" msprop:Generator_ColumnPropNameInRow="Branch" msprop:Generator_ColumnPropNameInTable="BranchColumn" msprop:Generator_UserColumnName="Branch" type="xs:string" minOccurs="0" />
+              <xs:element name="ServiceType" msprop:Generator_ColumnVarNameInTable="columnServiceType" msprop:Generator_ColumnPropNameInRow="ServiceType" msprop:Generator_ColumnPropNameInTable="ServiceTypeColumn" msprop:Generator_UserColumnName="ServiceType" type="xs:string" minOccurs="0" />
+              <xs:element name="Brand" msprop:Generator_ColumnVarNameInTable="columnBrand" msprop:Generator_ColumnPropNameInRow="Brand" msprop:Generator_ColumnPropNameInTable="BrandColumn" msprop:Generator_UserColumnName="Brand" type="xs:string" minOccurs="0" />
+              <xs:element name="ModelNo" msprop:Generator_ColumnVarNameInTable="columnModelNo" msprop:Generator_ColumnPropNameInRow="ModelNo" msprop:Generator_ColumnPropNameInTable="ModelNoColumn" msprop:Generator_UserColumnName="ModelNo" type="xs:string" minOccurs="0" />
+              <xs:element name="ReceptDate" msprop:Generator_ColumnVarNameInTable="columnReceptDate" msprop:Generator_ColumnPropNameInRow="ReceptDate" msprop:Generator_ColumnPropNameInTable="ReceptDateColumn" msprop:Generator_UserColumnName="ReceptDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Sdate" msprop:Generator_ColumnVarNameInTable="columnSdate" msprop:Generator_ColumnPropNameInRow="Sdate" msprop:Generator_ColumnPropNameInTable="SdateColumn" msprop:Generator_UserColumnName="Sdate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="TimeElapse" msprop:Generator_ColumnVarNameInTable="columnTimeElapse" msprop:Generator_ColumnPropNameInRow="TimeElapse" msprop:Generator_ColumnPropNameInTable="TimeElapseColumn" msprop:Generator_UserColumnName="TimeElapse" type="xs:short" minOccurs="0" />
+              <xs:element name="Issueto" msprop:Generator_ColumnVarNameInTable="columnIssueto" msprop:Generator_ColumnPropNameInRow="Issueto" msprop:Generator_ColumnPropNameInTable="IssuetoColumn" msprop:Generator_UserColumnName="Issueto" type="xs:string" minOccurs="0" />
+              <xs:element name="Wcondition" msprop:Generator_ColumnVarNameInTable="columnWcondition" msprop:Generator_ColumnPropNameInRow="Wcondition" msprop:Generator_ColumnPropNameInTable="WconditionColumn" msprop:Generator_UserColumnName="Wcondition" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Transfer" msprop:Generator_TableClassName="TransferDataTable" msprop:Generator_TableVarName="tableTransfer" msprop:Generator_TablePropName="Transfer" msprop:Generator_RowDeletingName="TransferRowDeleting" msprop:Generator_RowChangingName="TransferRowChanging" msprop:Generator_RowEvHandlerName="TransferRowChangeEventHandler" msprop:Generator_RowDeletedName="TransferRowDeleted" msprop:Generator_UserTableName="Transfer" msprop:Generator_RowChangedName="TransferRowChanged" msprop:Generator_RowEvArgName="TransferRowChangeEvent" msprop:Generator_RowClassName="TransferRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="JobCode" msprop:Generator_ColumnVarNameInTable="columnJobCode" msprop:Generator_ColumnPropNameInRow="JobCode" msprop:Generator_ColumnPropNameInTable="JobCodeColumn" msprop:Generator_UserColumnName="JobCode" type="xs:string" />
+              <xs:element name="ServiceType" msprop:Generator_ColumnVarNameInTable="columnServiceType" msprop:Generator_ColumnPropNameInRow="ServiceType" msprop:Generator_ColumnPropNameInTable="ServiceTypeColumn" msprop:Generator_UserColumnName="ServiceType" type="xs:string" minOccurs="0" />
+              <xs:element name="Brand" msprop:Generator_ColumnVarNameInTable="columnBrand" msprop:Generator_ColumnPropNameInRow="Brand" msprop:Generator_ColumnPropNameInTable="BrandColumn" msprop:Generator_UserColumnName="Brand" type="xs:string" minOccurs="0" />
+              <xs:element name="ModelNo" msprop:Generator_ColumnVarNameInTable="columnModelNo" msprop:Generator_ColumnPropNameInRow="ModelNo" msprop:Generator_ColumnPropNameInTable="ModelNoColumn" msprop:Generator_UserColumnName="ModelNo" type="xs:string" minOccurs="0" />
+              <xs:element name="SLNO" msprop:Generator_ColumnVarNameInTable="columnSLNO" msprop:Generator_ColumnPropNameInRow="SLNO" msprop:Generator_ColumnPropNameInTable="SLNOColumn" msprop:Generator_UserColumnName="SLNO" type="xs:string" minOccurs="0" />
+              <xs:element name="WCondition" msprop:Generator_ColumnVarNameInTable="columnWCondition" msprop:Generator_ColumnPropNameInRow="WCondition" msprop:Generator_ColumnPropNameInTable="WConditionColumn" msprop:Generator_UserColumnName="WCondition" type="xs:string" minOccurs="0" />
+              <xs:element name="Cflag" msprop:Generator_ColumnVarNameInTable="columnCflag" msprop:Generator_ColumnPropNameInRow="Cflag" msprop:Generator_ColumnPropNameInTable="CflagColumn" msprop:Generator_UserColumnName="Cflag" type="xs:string" minOccurs="0" />
+              <xs:element name="TransferFrom" msprop:Generator_ColumnVarNameInTable="columnTransferFrom" msprop:Generator_ColumnPropNameInRow="TransferFrom" msprop:Generator_ColumnPropNameInTable="TransferFromColumn" msprop:Generator_UserColumnName="TransferFrom" type="xs:string" minOccurs="0" />
+              <xs:element name="TransferTo" msprop:Generator_ColumnVarNameInTable="columnTransferTo" msprop:Generator_ColumnPropNameInRow="TransferTo" msprop:Generator_ColumnPropNameInTable="TransferToColumn" msprop:Generator_UserColumnName="TransferTo" type="xs:string" minOccurs="0" />
+              <xs:element name="Remarks" msprop:Generator_ColumnVarNameInTable="columnRemarks" msprop:Generator_ColumnPropNameInRow="Remarks" msprop:Generator_ColumnPropNameInTable="RemarksColumn" msprop:Generator_UserColumnName="Remarks" type="xs:string" minOccurs="0" />
+              <xs:element name="TrDate" msprop:Generator_ColumnVarNameInTable="columnTrDate" msprop:Generator_ColumnPropNameInRow="TrDate" msprop:Generator_ColumnPropNameInTable="TrDateColumn" msprop:Generator_UserColumnName="TrDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="TrByName" msprop:Generator_ColumnVarNameInTable="columnTrByName" msprop:Generator_ColumnPropNameInRow="TrByName" msprop:Generator_ColumnPropNameInTable="TrByNameColumn" msprop:Generator_UserColumnName="TrByName" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tbStorage" msprop:Generator_TableClassName="tbStorageDataTable" msprop:Generator_TableVarName="tabletbStorage" msprop:Generator_RowChangedName="tbStorageRowChanged" msprop:Generator_TablePropName="tbStorage" msprop:Generator_RowDeletingName="tbStorageRowDeleting" msprop:Generator_RowChangingName="tbStorageRowChanging" msprop:Generator_RowEvHandlerName="tbStorageRowChangeEventHandler" msprop:Generator_RowDeletedName="tbStorageRowDeleted" msprop:Generator_RowClassName="tbStorageRow" msprop:Generator_UserTableName="tbStorage" msprop:Generator_RowEvArgName="tbStorageRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="JobCode" msprop:Generator_ColumnVarNameInTable="columnJobCode" msprop:Generator_ColumnPropNameInRow="JobCode" msprop:Generator_ColumnPropNameInTable="JobCodeColumn" msprop:Generator_UserColumnName="JobCode" type="xs:string" />
+              <xs:element name="ServiceType" msprop:Generator_ColumnVarNameInTable="columnServiceType" msprop:Generator_ColumnPropNameInRow="ServiceType" msprop:Generator_ColumnPropNameInTable="ServiceTypeColumn" msprop:Generator_UserColumnName="ServiceType" type="xs:string" minOccurs="0" />
+              <xs:element name="Brand" msprop:Generator_ColumnVarNameInTable="columnBrand" msprop:Generator_ColumnPropNameInRow="Brand" msprop:Generator_ColumnPropNameInTable="BrandColumn" msprop:Generator_UserColumnName="Brand" type="xs:string" minOccurs="0" />
+              <xs:element name="ModelNo" msprop:Generator_ColumnVarNameInTable="columnModelNo" msprop:Generator_ColumnPropNameInRow="ModelNo" msprop:Generator_ColumnPropNameInTable="ModelNoColumn" msprop:Generator_UserColumnName="ModelNo" type="xs:string" minOccurs="0" />
+              <xs:element name="SLNO" msprop:Generator_ColumnVarNameInTable="columnSLNO" msprop:Generator_ColumnPropNameInRow="SLNO" msprop:Generator_ColumnPropNameInTable="SLNOColumn" msprop:Generator_UserColumnName="SLNO" type="xs:string" minOccurs="0" />
+              <xs:element name="WCondition" msprop:Generator_ColumnVarNameInTable="columnWCondition" msprop:Generator_ColumnPropNameInRow="WCondition" msprop:Generator_ColumnPropNameInTable="WConditionColumn" msprop:Generator_UserColumnName="WCondition" type="xs:string" minOccurs="0" />
+              <xs:element name="Cflag" msprop:Generator_ColumnVarNameInTable="columnCflag" msprop:Generator_ColumnPropNameInRow="Cflag" msprop:Generator_ColumnPropNameInTable="CflagColumn" msprop:Generator_UserColumnName="Cflag" type="xs:string" minOccurs="0" />
+              <xs:element name="Location" msdata:Caption="TransferFrom" msprop:Generator_ColumnVarNameInTable="columnLocation" msprop:Generator_ColumnPropNameInRow="Location" msprop:Generator_ColumnPropNameInTable="LocationColumn" msprop:Generator_UserColumnName="Location" type="xs:string" minOccurs="0" />
+              <xs:element name="SendDate" msdata:Caption="TransferTo" msprop:Generator_ColumnVarNameInTable="columnSendDate" msprop:Generator_ColumnPropNameInRow="SendDate" msprop:Generator_ColumnPropNameInTable="SendDateColumn" msprop:Generator_UserColumnName="SendDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Bin" msdata:Caption="Remarks" msprop:Generator_ColumnVarNameInTable="columnBin" msprop:Generator_ColumnPropNameInRow="Bin" msprop:Generator_ColumnPropNameInTable="BinColumn" msprop:Generator_UserColumnName="Bin" type="xs:string" minOccurs="0" />
+              <xs:element name="Remarks" msdata:Caption="TrDate" msprop:Generator_ColumnVarNameInTable="columnRemarks" msprop:Generator_ColumnPropNameInRow="Remarks" msprop:Generator_ColumnPropNameInTable="RemarksColumn" msprop:Generator_UserColumnName="Remarks" type="xs:string" minOccurs="0" />
+              <xs:element name="Branch" msdata:Caption="TrByName" msprop:Generator_ColumnVarNameInTable="columnBranch" msprop:Generator_ColumnPropNameInRow="Branch" msprop:Generator_ColumnPropNameInTable="BranchColumn" msprop:Generator_UserColumnName="Branch" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CustomerInformation" msprop:Generator_TableClassName="CustomerInformationDataTable" msprop:Generator_TableVarName="tableCustomerInformation" msprop:Generator_RowChangedName="CustomerInformationRowChanged" msprop:Generator_TablePropName="CustomerInformation" msprop:Generator_RowDeletingName="CustomerInformationRowDeleting" msprop:Generator_RowChangingName="CustomerInformationRowChanging" msprop:Generator_RowEvHandlerName="CustomerInformationRowChangeEventHandler" msprop:Generator_RowDeletedName="CustomerInformationRowDeleted" msprop:Generator_RowClassName="CustomerInformationRow" msprop:Generator_UserTableName="CustomerInformation" msprop:Generator_RowEvArgName="CustomerInformationRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="JobCode" msprop:Generator_ColumnVarNameInTable="columnJobCode" msprop:Generator_ColumnPropNameInRow="JobCode" msprop:Generator_ColumnPropNameInTable="JobCodeColumn" msprop:Generator_UserColumnName="JobCode" type="xs:string" />
+              <xs:element name="Branch" msprop:Generator_ColumnVarNameInTable="columnBranch" msprop:Generator_ColumnPropNameInRow="Branch" msprop:Generator_ColumnPropNameInTable="BranchColumn" msprop:Generator_UserColumnName="Branch" type="xs:string" minOccurs="0" />
+              <xs:element name="CustName" msprop:Generator_ColumnVarNameInTable="columnCustName" msprop:Generator_ColumnPropNameInRow="CustName" msprop:Generator_ColumnPropNameInTable="CustNameColumn" msprop:Generator_UserColumnName="CustName" type="xs:string" minOccurs="0" />
+              <xs:element name="CustAddress1" msprop:Generator_ColumnVarNameInTable="columnCustAddress1" msprop:Generator_ColumnPropNameInRow="CustAddress1" msprop:Generator_ColumnPropNameInTable="CustAddress1Column" msprop:Generator_UserColumnName="CustAddress1" type="xs:string" minOccurs="0" />
+              <xs:element name="ServiceType" msprop:Generator_ColumnVarNameInTable="columnServiceType" msprop:Generator_ColumnPropNameInRow="ServiceType" msprop:Generator_ColumnPropNameInTable="ServiceTypeColumn" msprop:Generator_UserColumnName="ServiceType" type="xs:string" minOccurs="0" />
+              <xs:element name="Brand" msprop:Generator_ColumnVarNameInTable="columnBrand" msprop:Generator_ColumnPropNameInRow="Brand" msprop:Generator_ColumnPropNameInTable="BrandColumn" msprop:Generator_UserColumnName="Brand" type="xs:string" minOccurs="0" />
+              <xs:element name="ModelNo" msprop:Generator_ColumnVarNameInTable="columnModelNo" msprop:Generator_ColumnPropNameInRow="ModelNo" msprop:Generator_ColumnPropNameInTable="ModelNoColumn" msprop:Generator_UserColumnName="ModelNo" type="xs:string" minOccurs="0" />
+              <xs:element name="SLNO" msprop:Generator_ColumnVarNameInTable="columnSLNO" msprop:Generator_ColumnPropNameInRow="SLNO" msprop:Generator_ColumnPropNameInTable="SLNOColumn" msprop:Generator_UserColumnName="SLNO" type="xs:string" minOccurs="0" />
+              <xs:element name="ReceptDate" msprop:Generator_ColumnVarNameInTable="columnReceptDate" msprop:Generator_ColumnPropNameInRow="ReceptDate" msprop:Generator_ColumnPropNameInTable="ReceptDateColumn" msprop:Generator_UserColumnName="ReceptDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="WCondition" msprop:Generator_ColumnVarNameInTable="columnWCondition" msprop:Generator_ColumnPropNameInRow="WCondition" msprop:Generator_ColumnPropNameInTable="WConditionColumn" msprop:Generator_UserColumnName="WCondition" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="DiscountKey1">
+      <xs:selector xpath=".//mstns:Discount" />
+      <xs:field xpath="mstns:JobCode" />
+    </xs:unique>
+    <xs:unique name="Not_AssignedKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Not_Assigned" />
+      <xs:field xpath="mstns:JobCOde" />
+    </xs:unique>
+    <xs:unique name="Under_ProcessKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Under_Process" />
+      <xs:field xpath="mstns:JobCode" />
+    </xs:unique>
+    <xs:unique name="TransferKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Transfer" />
+      <xs:field xpath="mstns:JobCode" />
+    </xs:unique>
+    <xs:unique name="tbStorage_TransferKey1" msdata:ConstraintName="TransferKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:tbStorage" />
+      <xs:field xpath="mstns:JobCode" />
+    </xs:unique>
+    <xs:unique name="CustomerInformationKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CustomerInformation" />
+      <xs:field xpath="mstns:JobCode" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

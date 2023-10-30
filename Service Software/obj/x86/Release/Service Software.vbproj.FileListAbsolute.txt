@@ -1,0 +1,66 @@
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\Service Software.exe.config
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service Software.vbproj.ResolveComReference.cache
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\Service Software.exe.manifest
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\Service Software.application
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\Service Software.exe
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\Service Software.pdb
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\Service Software.xml
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\CrystalDecisions.CrystalReports.Engine.dll
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\CrystalDecisions.ReportSource.dll
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\CrystalDecisions.Shared.dll
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\CrystalDecisions.Windows.Forms.dll
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\FlashControlV71.dll
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\ShockwaveFlashObjects.dll
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Visual Studio 2015 Projct\Service Software\Service Software\bin\x86\Release\stdole.dll
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmAbort.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmAdd_EditModel.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.FrmAdvance.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmBackUp.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmCashsale.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmCategory.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmCompanyInformation.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmJobInformationForm.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmMaster_information.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmMerge.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmEditCategoryBrand.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmProductInformation.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmPresentStock.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmSysteminformation.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmNewBranch.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmNewCategoryBrand.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmOnpayment_Bill_Format.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmOpenCustomerClaim.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmOption.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmPending.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmPersonalInformation.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmPrinerSetup.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmProductEntry.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmproductsearch.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmRepairedForm.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmReplaceEntry.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmReportShow.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmSetBranch.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmTechnicianReport.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmUpdate_Delete.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmUserManagement.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.NewCustomer.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.frmMdimain.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service_Software.Resources.resources
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service Software.vbproj.GenerateResource.Cache
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service Software.exe.manifest
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service Software.application
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service Software.exe
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service Software.xml
+F:\Visual Studio 2015 Projct\Service Software\Service Software\obj\x86\Release\Service Software.pdb
